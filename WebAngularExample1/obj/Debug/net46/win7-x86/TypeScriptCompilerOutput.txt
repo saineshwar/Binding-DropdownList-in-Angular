@@ -1,0 +1,10 @@
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\app.component.js
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\app.component.js.map
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\app.module.js
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\app.module.js.map
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\Demo.Component.js
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\Demo.Component.js.map
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\main.js
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\main.js.map
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\StateMaster.js
+c:\users\sai\documents\visual studio 2017\Projects\WebAngularExample1\WebAngularExample1\wwwroot\app\StateMaster.js.map
